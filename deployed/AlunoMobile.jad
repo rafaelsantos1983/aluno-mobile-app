@@ -1,0 +1,11 @@
+MIDlet-Jar-Size: 24066
+MIDlet-1: AlunoMobile,AlunoMobile.png,AlunoMobile
+MIDlet-Jar-URL: AlunoMobile.jar
+MIDlet-Icon: AlunoMobile.png
+Server-URL: http://200.249.107.23:8080/AlunoMobileServer/AlunoMobileServlet
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Version: 1.0.0
+MIDlet-Info-URL: http://alunomobile.fir.br
+MIDlet-Name: AlunoMobile
+MIDlet-Vendor: 3RC
+MicroEdition-Profile: MIDP-1.0
